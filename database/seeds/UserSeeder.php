@@ -13,17 +13,17 @@ class UserSeeder extends Seeder
     {
         // factory(App\Models\User::class, 1)->create([
         //     'name' => 'Admin',
-        //     'email'=>'admin@devpremier.com',
+        //     'email'=>'admin@siberfx.com',
         //     'role_id'=>'1'
         // ]);
         // factory(App\Models\User::class, 1)->create([
         //     'name' => 'user',
-        //     'email'=>'user@devpremier.com',
+        //     'email'=>'user@siberfx.com',
         //     'role_id'=>'2'
         // ]);
         // factory(App\Models\User::class, 1)->create([
-        //     'name' => 'salesperson',
-        //     'email'=>'salesperson@devpremier.com',
+        //     'name' => 'sales',
+        //     'email'=>'sales@siberfx.com',
         //     'role_id'=>'3'
         // ]);
 

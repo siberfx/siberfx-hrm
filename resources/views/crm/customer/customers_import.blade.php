@@ -105,9 +105,9 @@
                           <td>{{__('Prospect_status')}}</td>
                           <td>{{__('1')}}</td>
                           <td>{{__('861222')}}</td>
-                          <td>{{__('devpremier.com')}}</td>
+                          <td>{{__('siberfx.com')}}</td>
                           <td>{{__('1')}}</td>
-                          <td>{{__('devpremier')}}</td>
+                          <td>{{__('siberfx')}}</td>
                           <td>{{__('2')}}</td>
                           <td>{{__('John')}}</td>
                           <td>{{__('doe')}}</td>

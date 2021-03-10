@@ -9,7 +9,7 @@
 <!------ Include the above in your HEAD tag ---------->
 
 <div class="container">
-    <center><h1 class="text-light">DevPremier CRM Installation</h1></center>
+    <center><h1 class="text-light">Siberfx HRM Installation</h1></center>
     <center><h2 class="text-light">Welcome To The Setup Wizard</h2></center>
     <br/>
     <div class="stepwizard">
@@ -44,7 +44,7 @@
                 <div class="col-md-6">
                   <div class="form-group">
                     <label class="control-label">Application Name</label>
-                    <input maxlength="100" type="text" required="required" class="form-control" name="app_name" value="DevPremier CRM"/>
+                    <input maxlength="100" type="text" required="required" class="form-control" name="app_name" value="Siberfx HRM"/>
                   </div>
                 </div>
                 <div class="col-md-6">
@@ -164,7 +164,7 @@
                   <div class="col-md-6">
                     <div class="form-group">
                       <label class="control-label">DB_DATABASE</label>
-                      <input type="text" required="required" class="form-control" name="db_database"  value="devpremier_crm" />
+                      <input type="text" required="required" class="form-control" name="db_database"  value="siberfx_hrm" />
                     </div>
                     <div class="form-group">
                         <label class="control-label">DB_USERNAME</label>
@@ -189,7 +189,7 @@
                 <div class="col-md-12">
                   <p>Run this Cron Job in your server to send email, because this software will insert the email data in the (queue)database, and on running cron, it will automatically be sent to the user form the queue.</p>
                   <strong>
-                    /usr/local/bin/php /home/user_name/public_html/devpremier_crm/artisan schedule:run >/dev/null 2>&1
+                    /usr/local/bin/php /var/www/site_folder/artisan schedule:run >/dev/null 2>&1
                   </strong>
                 </div>
               </div>

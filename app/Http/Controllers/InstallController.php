@@ -114,7 +114,7 @@ PUSHER_APP_SECRET=
         ]);
         array_push($artisan_op, Artisan::output());
         // INSTALLED file create and put some content in it.
-        $installed = 'DevPremier CRM installed at '.now().' Do not delete this file, it prevents the users to run the installer again!'; 
+        $installed = 'Siberfx HRM installed at '.now().' Do not delete this file, it prevents the users to run the installer again!';
         file_put_contents(STORAGE_PATH("INSTALLED"), $installed);
         return redirect(url('/'));
     }

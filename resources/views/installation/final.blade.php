@@ -8,7 +8,7 @@
   }
 </style>
 <div class="container">
-    <center><h2 class="text-light">DevPremier CRM Installation</h2></center>
+    <center><h2 class="text-light">Siberfx HRM Installation</h2></center>
     <center><h3 class="text-light">Welcome To The Setup Wizard</h3></center>
     <div class="card">
       <div class="card-body">

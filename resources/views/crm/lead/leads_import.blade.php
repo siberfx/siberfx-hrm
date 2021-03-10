@@ -105,8 +105,8 @@
                           <td>{{__('John')}}</td>
                           <td>{{__('Doe')}}</td>
                           <td>{{__('Company Name')}}</td>
-                          <td>{{__('devpremier.com')}}</td>
-                          <td>{{__('john@demo.com')}}</td>
+                          <td>{{__('siberfx.com')}}</td>
+                          <td>{{__('demo@demo.com')}}</td>
                           <td>{{__('9899999999')}}</td>
                           <td>{{__('9999666666')}}</td>
                           <td>{{__('9999666666')}}</td>

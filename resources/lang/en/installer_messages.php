@@ -7,7 +7,7 @@ return [
      * Shared translations.
      *
      */
-    'title' => 'DevPremier CRM Installer',
+    'title' => 'Siberfx HRM Installer',
     'next' => 'Next Step',
     'back' => 'Previous',
     'finish' => 'Install',
@@ -22,7 +22,7 @@ return [
      */
     'welcome' => [
         'templateTitle' => 'Welcome',
-        'title'   => 'DevPremier CRM Installer',
+        'title'   => 'Siberfx HRM Installer',
         'message' => 'Easy Installation and Setup Wizard.',
         'next'    => 'Check Requirements',
     ],
@@ -176,7 +176,7 @@ return [
      *
      */
     'installed' => [
-        'success_log_message' => 'DevPremier CRM Installer successfully INSTALLED on ',
+        'success_log_message' => 'Siberfx HRM Installer successfully INSTALLED on ',
     ],
 
     /*
@@ -206,7 +206,7 @@ return [
          * Shared translations.
          *
          */
-        'title' => 'DevPremier CRM Updater',
+        'title' => 'Siberfx HRM Updater',
 
         /*
          *
@@ -241,7 +241,7 @@ return [
         ],
 
         'log' => [
-            'success_message' => 'DevPremier CRM Installer successfully UPDATED on ',
+            'success_message' => 'Siberfx HRM Installer successfully UPDATED on ',
         ],
     ],
 ];

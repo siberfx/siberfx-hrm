@@ -10,7 +10,7 @@ $factory->define(App\Models\User::class, function (Faker $faker) {
         'role_id'=> $faker->numberBetween($min = 2, $max = 3), // 1 is for admin
         'status'=> 'active',
         'email_verified_at' => now(),
-        'password' => '$2y$10$0hJwwcF9nScQRH2Xhzz69uI8HuZWHkdWLJ3SQ.8iMKLAu9iNgxcTq', // devpremier
+        'password' => bcrypt('demo123'),
         'remember_token' => Str::random(10),
     ];
 });

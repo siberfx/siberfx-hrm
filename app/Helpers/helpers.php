@@ -4,17 +4,17 @@
      * Globally available helper methods.
      *
      * LICENSE: This product includes software developed at
-     * the DevPremier Pvt Ltd. (http://devpremier.com/).
+     * the Siberfx Pvt Ltd. (http://siberfx.com/).
      *
      * @category   MVC Model
      *
-     * @author     N. Pham <akgarg@devpremier.com>
-     * @copyright  DevPremier Pvt Ltd
-     * @license    DevPremier Pvt Ltd
+     * @author     S. Gormus <info@siberfx.com>
+     * @copyright  Siberfx Pvt Ltd
+     * @license    Siberfx Pvt Ltd
      *
-     * @version    1.2
+     * @version    1.0
      *
-     * @link       http://devpremier.com
+     * @link       https://siberfx.com
      */
 
     /**

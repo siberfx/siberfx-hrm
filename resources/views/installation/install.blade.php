@@ -12,7 +12,7 @@
     <i class="fas fa-circle fa-xs text-{{ (phpversion() > '7.2.5') ? 'success' : 'danger' }}"></i> 
     {{__('PHP version:')}} {{phpversion()}} 
     @if (phpversion() < '7.2.5')
-      <span class="text-danger">{{__('Your php version is not valid as per Devpremier CRM requirements.')}}</span>
+      <span class="text-danger">{{__('Your php version is not valid as per Siberfx HRM requirements.')}}</span>
     @endif
     
     <br/><i class="fas fa-circle fa-xs text-{{ (extension_loaded('bcmath') == 1) ? 'success' : 'danger' }}"></i> 
